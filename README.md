@@ -94,6 +94,7 @@ Aplikacija komunicira z REST API-jem spletne aplikacije:
 ## Doprinos avtorjev
 
 **Miloš Mladenović:** Integracija API servisa, models, deo activitesa
+
 **Luka Đorđević:** UI/UX, layout datoteke, deo activitesa
 
 ## Deployment
