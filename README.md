@@ -6,6 +6,7 @@
 - **70095915 - Miloš Mladenović**
 - **63240392 - Luka Đorđević**
 
+
 ## Opis projekta
 
 EKnjiznica Mobile je Android mobilna aplikacija za člane knjižnice, ki omogoča uporabnikom dostop do funkcionalnosti knjižnice preko mobilne naprave. Aplikacija komunicira z REST API-jem spletne aplikacije EKnjiznica.
@@ -89,6 +90,11 @@ Aplikacija komunicira z REST API-jem spletne aplikacije:
 
 **Član:**
 - Registruju ih knjizničari preko spletne aplikacije
+
+## Doprinos avtorjev
+
+**Miloš Mladenović:** Integracija API servisa, models, deo activitesa
+**Luka Đorđević:** UI/UX, layout datoteke, deo activitesa
 
 ## Deployment
 
