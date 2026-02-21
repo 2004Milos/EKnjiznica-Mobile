@@ -44,20 +44,6 @@ EKnjiznica Mobile/
 - Pregled glob
 - Recenziranje knjig
 
-## Screenshots
-
-![Screenshot 1](Screenshots/sc1.jpg)
-
-![Screenshot 2](Screenshots/sc2.jpg)
-
-![Screenshot 3](Screenshots/sc3.jpg)
-
-![Screenshot 4](Screenshots/sc4.jpg)
-
-![Screenshot 5](Screenshots/sc5.jpg)
-
-![Screenshot 6](Screenshots/sc6.jpg)
-
 ## API Endpoints
 
 Aplikacija komunicira z REST API-jem spletne aplikacije:
