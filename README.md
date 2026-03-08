@@ -82,7 +82,3 @@ Aplikacija komunicira z REST API-jem spletne aplikacije:
 **Miloš Mladenović:** Integracija API servisa, models, deo activitesa
 
 **Luka Đorđević:** UI/UX, layout datoteke, deo activitesa
-
-## Deployment
-
-API URL: `https://eknjiznica20260107181458.azurewebsites.net/`
